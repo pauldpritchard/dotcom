@@ -180,7 +180,7 @@ $(function() {
     }
 
     function showWeek() {
-		return
+		return false;
       data = weekly_data;
       console.log(data);
       days = 0;
