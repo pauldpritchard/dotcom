@@ -307,12 +307,12 @@ sup {
 .ios-app {
   justify-content: center;
   align-items: center;
+  align-content: center;
   min-height: 100vh;
   margin: 0 25px;
 }
 .ios-app .content {
   max-width: 650px;
-  display: flex;
 }
 .ios-app .icon {
   width: 150px;
