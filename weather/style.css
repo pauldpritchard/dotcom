@@ -301,6 +301,36 @@ sup {
   }
 }
 
+/* IOS APP PAGES ====================================================================================================================== */
+
+
+.ios-app {
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.ios-app .content {
+  max-width: 750px;
+  display: flex;
+}
+.ios-app .icon {
+  width: 150px;
+  height: 150px;
+  margin: 0 0 20px;
+  vertical-align: middle;  
+}
+.ios-app h1 {
+  font-size: 4em;
+  margin: 0 0 20px;
+}
+.ios-app p {
+  font-size: 1.5em;
+  color: #999ea4;
+}
+.ios-app a {
+  color: #fff;
+}
+
 /* HOURLY BAR STYLES ====================================================================================================================== */
 
 /* SUNNY */
