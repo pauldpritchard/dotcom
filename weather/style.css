@@ -308,8 +308,11 @@ sup {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  max-width: 650px;
   margin: 0 25px;
+}
+.ios-app .content {
+  max-width: 650px;
+  display: flex;
 }
 .ios-app .icon {
   width: 150px;
